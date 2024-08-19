@@ -1,4 +1,4 @@
-package com.cinelits.ms.easy.twosum;
+package com.douglasbello.ms.easy.twosum;
 
 public class TwoSum {
     public static int[] twoSum(int[] nums, int target) {

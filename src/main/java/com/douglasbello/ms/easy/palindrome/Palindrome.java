@@ -1,4 +1,4 @@
-package com.cinelits.ms.easy.palindrome;
+package com.douglasbello.ms.easy.palindrome;
 
 public class Palindrome {
     public static boolean isPalindrome(int x) {
