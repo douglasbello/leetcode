@@ -1,9 +1,9 @@
 package com.cinelits.ms;
 
-import com.cinelits.ms.palindrome.Palindrome;
+import com.cinelits.ms.easy.romantointeger.RomanToInteger;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Palindrome.isPalindrome(10));
+        RomanToInteger.romanToInt("III");
     }
 }
