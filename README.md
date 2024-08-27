@@ -7,7 +7,7 @@
 </p>
 
 <hr>
-<h3>Problems resolved</h3>
+<h3>Problems solved</h3>
 
 <h3>Easy</h3>
 
